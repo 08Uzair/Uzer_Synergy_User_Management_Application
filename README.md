@@ -21,6 +21,8 @@ This application is designed to manage users using the JSONPlaceholder API. It i
 ## ⚙️ Technologies Used
 React
 
+Redux for Centralized State Management
+
 React Router
 
 Axios
@@ -84,4 +86,7 @@ Responsive Design: Ensures good appearance on both desktop and mobile.
 The application is hosted on Vercel and can be accessed via the provided live URL.
 
 ## ☎️ Contact
-For any questions, please contact uzerqureshi26@gmail.com.
+For any questions, please contact uzerqureshi26@gmail.com
+
+Linkedin : https://www.linkedin.com/in/uzairqureshi0803 
+
